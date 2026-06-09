@@ -81,5 +81,4 @@ void loop() {
 }
 ~~~
 
-!
-[Open Wokwi Simulation](https://wokwi.com/projects/465743408759629825) 
+
